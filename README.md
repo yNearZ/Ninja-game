@@ -1,1 +1,1 @@
-# Ninja-game
+# project-template-C19
